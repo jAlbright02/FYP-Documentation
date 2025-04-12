@@ -1,4 +1,3 @@
 # Documentation
 
-## Poster
-[Poster](FYP_Poster.pdf)
+## [Poster](FYP_Poster.pdf)
